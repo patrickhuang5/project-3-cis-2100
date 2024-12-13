@@ -1,1 +1,2 @@
 # project-3-cis-2100
+This project performs market basket analysis on synthetic transactional data to identify the best-selling item combinations for each store and across the entire organization. By analyzing purchase patterns and calculating the support for itemsets, the code discovers frequently purchased item pairs, helping to reveal customer purchasing behaviors. The results are organized into a table that displays the most common item combinations, both store-specific and across all stores, providing valuable insights for inventory management and strategic planning.
